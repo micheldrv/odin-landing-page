@@ -251,6 +251,11 @@ footer {
     flex-direction: column-reverse;
   }
 
+  .hero-left {
+    align-items: center;
+    text-align: center;
+  }
+
   .illustrations {
     max-width: 500px;
     flex-wrap: wrap;
